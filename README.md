@@ -11,7 +11,7 @@ Overview
 
 It contains a lot of subjective technical groups, opinionated technologies, vetted requirements and best practices we gathered for Web & Mobile Developers.
 
-Enjoy reading! 🙇
+Enjoy reading! 🙇!
 
 * * *
 
